@@ -56,6 +56,11 @@ sudo ufw allow ssh
 ```
 <img width="1974" height="1146" alt="image" src="https://github.com/user-attachments/assets/66bd6066-bc93-40ad-b9b3-5f12625602bb" />
 
+With the SSH key obtained, I connected the code into my GitHub account this is to securely authenticate my computer to my GitHub account.
+
+<img width="704" height="190" alt="image" src="https://github.com/user-attachments/assets/657b0630-d359-4f3b-9a02-34c67ed2b5ba" />
+
+
 ## Conclusion
 
 this lab provided valuable hands-on experience in setting up and using a virtual machine to run Ubuntu Linux. Although I encountered challenges with VirtualBox, particularly long loading times and delays during the VM setup, I learned the importance of configuring a reliable virtualisation environment and understanding the role of NAT networking. The experience also increased my confidence in using Ubuntu and demonstrated how virtualised Linux environments are widely used in industry for software development, cybersecurity, testing, and system administration without affecting the host operating system. If I were to set up another virtual machine in the future, I would choose VMware from the beginning and ensure that the NAT configuration is stable to achieve a smoother and more reliable setup process.
