@@ -275,7 +275,7 @@ Photo shown publicly available registration information about the domain and dis
 
 <img width="467" height="173" alt="image" src="https://github.com/user-attachments/assets/9cc924f7-e8f6-4a9d-b8bc-c62899c32f53" />
 
-The website whatismyipaddress.com displayed the public IP address assigned by the Internet Service Provider (ISP), which identifies the network on the Internet. 'ip a' shows host's private address on the LAN. Most home use NAT to map any private hosts to one public IP.
+The website whatismyipaddress.com displayed the public IP address assigned by the Internet Service Provider (ISP), which identifies the network on the Internet. 'ip a' shows host's private address on the LAN. Most home use NAT to map any private hosts to one public IP. Thus, both IP addresses are different.
 
 ### Part 5 -- System and Hardware Info
 
