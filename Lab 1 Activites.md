@@ -345,7 +345,6 @@ To ensure vlc is installed, I used 'vlc --version'
 
 <img width="1716" height="1045" alt="image" src="https://github.com/user-attachments/assets/a5b1a231-4f2b-4524-bba8-b26fa8844b00" />
 
-
 <img width="1782" height="1086" alt="image" src="https://github.com/user-attachments/assets/877344d8-ca8c-4cc0-a8f5-9e2713158277" />
 
 <img width="1885" height="1073" alt="image" src="https://github.com/user-attachments/assets/47b2c426-4268-4ec2-ab11-d5c814e40c92" />
@@ -387,6 +386,8 @@ Overall, this lab strengthened my understanding of the Ubuntu Linux environment 
 ### Reflection Summary
 
 From this lab, I learned that Nano is the most suitable file editor for remote access because it works well through the command line. I also learned that SaaS applications are convenient, repository installations are secure and easy to manage, binary installations provide flexibility, and source compilation offers greater control but is more complex. Each installation method has its own advantages depending on the user's needs and technical skills. Using the Linux command-line interface also improved my understanding of file management, software installation, and basic system administration, making me more confident in using Linux.
+
+# Lab 1b-1 -- Linux Services, SSH, Firewalls & Compression 
 
 
 
