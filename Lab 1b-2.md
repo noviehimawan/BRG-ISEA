@@ -139,7 +139,13 @@ Picture shown that Mallory can do things that only sudo can do.
 
 Picture shown confirmed deletion of shared directory and its content.
 
-##
+# Conclusion
+
+This activity demonstrated how Linux file ownership, groups, and permissions control user access to files and directories. By using Alice, Bob, and Mallory, I learned how commands such as chmod, chown, and chgrp can assign different access levels, while su and whoami help verify user permissions. Overall, the exercise highlighted the importance of proper permission management in protecting files and maintaining system security.
+
+# Reflection
+
+This activity showed that Linux uses a simple owner, group, and others permission model, while Windows ACL provides more detailed and flexible access control. I learned that chmod 770 allows both the owner and group to read, write, and execute, whereas chmod 750 removes write permission from the group and denies all access to others. Adding users to the sudo group should be done carefully because it grants administrative privileges that could affect system security. Using su and whoami is important to confirm the active user and verify that permissions are working as intended.
 
 
 
