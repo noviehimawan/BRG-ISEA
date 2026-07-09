@@ -384,11 +384,11 @@ Then I continue to input ./hello_world_executable
 
 <img width="1657" height="1019" alt="image" src="https://github.com/user-attachments/assets/9a38a8c4-7eb5-453b-ab44-c0b55c2d343e" />
 
-### Conclusion
+# Conclusion
 
 Overall, this lab strengthened my understanding of the Ubuntu Linux environment by allowing me to use both the graphical interface and the command-line interface. I learned basic Linux commands, file and user management, networking, software installation methods, and how to compile a simple program using GCC. Despite some challenges during the setup process, the activities improved my confidence in using Linux and provided practical skills that are useful for software development, cybersecurity, and system administration.
 
-### Reflection Summary
+# Reflection 
 
 From this lab, I learned that Nano is the most suitable file editor for remote access because it works well through the command line. I also learned that SaaS applications are convenient, repository installations are secure and easy to manage, binary installations provide flexibility, and source compilation offers greater control but is more complex. Each installation method has its own advantages depending on the user's needs and technical skills. Using the Linux command-line interface also improved my understanding of file management, software installation, and basic system administration, making me more confident in using Linux.
 
