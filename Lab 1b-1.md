@@ -189,6 +189,53 @@ Based on the picture above I also continued to copy directory of files (books) t
 
 The picture shown is to confirm that file of directory has been successfully copied to user "username". File itself will have 11 books because I combined it with Challenge 1 activity.
 
+## Virtual Networking
+
+First, I power off my VM.
+
+<img width="1600" height="998" alt="image" src="https://github.com/user-attachments/assets/6f335095-192e-4c1f-abfb-ee9230244d92" />
+
+Then I cloned my VM, since my VMWare is not the pro edition I had to clone my VM manually. 
+
+<img width="589" height="337" alt="image" src="https://github.com/user-attachments/assets/0b04499d-2ac7-498f-b4ea-ffdd00eaeb07" />
+
+After I cloned my VM, I opened it and the system prompt me which I answered `I copied it`
+
+<img width="836" height="817" alt="image" src="https://github.com/user-attachments/assets/7d428a44-e312-4fc1-89a8-067a3a2167ed" />
+
+After I succesfully clones my VM, I compared to cloned VM with the original VM. They both have different IP addresses.
+
+<img width="1136" height="262" alt="image" src="https://github.com/user-attachments/assets/2a3e80fe-b8f6-4dea-87ae-b849a7f6238b" />
+
+Photo shown is the first VM IP address which is `192.168.237.128`
+
+<img width="1258" height="334" alt="image" src="https://github.com/user-attachments/assets/b3c7a57b-7cb8-4911-9af8-56c7dc53cb1b" />
+
+Photo shown is the cloned VM IP address which is `192.168.237.129`
+
+I checked the MAC in case both VMs share the same MAC
+
+This is the first VM's MAC: 
+
+<img width="215" height="295" alt="image" src="https://github.com/user-attachments/assets/a3d691d0-1b2f-445d-bd81-330762234c0a" />
+
+This is the second VM's MAC:
+
+<img width="212" height="295" alt="image" src="https://github.com/user-attachments/assets/ff49e9c5-72b4-44fc-8f07-eb2881fdd48a" />
+
+After that I continued to ping between VMs and test SSH connectivity which was a success. 
+
+<img width="1759" height="1062" alt="image" src="https://github.com/user-attachments/assets/3376b2aa-0afc-44cf-86e3-a961d5396ffa" />
+
+# Conclusion
+
+This lab provided practical experience in configuring Linux services such as Apache, SSH, and UFW, while improving my understanding of networking, remote access, file transfer, and compression. I learned how to use tools like nmap, scp, tar, and bzip2, as well as manage users and troubleshoot virtual machine networking. Overall, the activities strengthened my confidence in using Linux for basic system administration and server management.
+
+# Reflection
+
+
+
+
 
 
 
