@@ -187,7 +187,7 @@ Based on the picture above I also continued to copy directory of files (books) t
 
 <img width="1324" height="182" alt="image" src="https://github.com/user-attachments/assets/83436002-05c2-41ff-b58f-81527a7632df" />
 
-The picture shown is to confirm that file of directory has been successfully copied to user "username".
+The picture shown is to confirm that file of directory has been successfully copied to user "username". File itself will have 11 books because I combined it with Challenge 1 activity.
 
 
 
