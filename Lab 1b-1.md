@@ -233,6 +233,8 @@ This lab provided practical experience in configuring Linux services such as Apa
 
 # Reflection
 
+This lab showed me that firewalls help protect systems by controlling which network connections are allowed or blocked. Using SSH helped me understand how Linux can be securely managed as a remote server, while file compression with tar and bzip2 made it easier to store and transfer files efficiently. I also learned that user privilege management improves system security by limiting access to authorized users and reducing the risk of accidental or unauthorized changes.
+
 
 
 
