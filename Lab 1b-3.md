@@ -38,7 +38,8 @@ This is the activity demonstrating contextual text search. Since I have no conte
 
 This activity is about demonstrating file search based on creation/modification date. I used `find . -type f -printf '%T+ %p\n' | sort | sed -n '3p'` it sorts the oldest being the first and only print the 3rd line.
 
-<img width="1600" height="644" alt="image" src="https://github.com/user-attachments/assets/d6a101ee-f970-4c25-9f44-19570a5e8d2d" />
+<img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/3d693173-cdcd-4bf3-aee2-5bc3963a919c" />
+
 
 ### Size-Based File Searches 
 
@@ -72,9 +73,13 @@ How many times does the string “verdigris” appear? (enter a number only) 0
 
 - What is the surname of the author of the file that is exactly 255258 bytes? (case sensitive) NIL
 
-- What is the filename of the file with the 3rd oldest creation date? frankenstein.txt
+- What is the filename of the file with the 3rd oldest creation date? twocities.txt
 
 - Find the word that follows the text: “Next day there was a surprise for Jack” (Case-sensitive, no spaces) NIL
+
+# Reflection
+
+During this activity, I found grep to be the most useful command because it quickly searched for specific text within multiple files. These search tools are valuable in cybersecurity investigations as they help locate important information, suspicious files, or keywords efficiently. I also learned that scripting can automate repetitive search tasks, saving time and reducing errors. One limitation I encountered was that grep and find require the correct syntax and file paths, and searching large directories can sometimes produce too much output, making it harder to identify the required information.
 
 
 
