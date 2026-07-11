@@ -1,4 +1,4 @@
-<img width="815" height="353" alt="image" src="https://github.com/user-attachments/assets/b0e45e26-2b30-44b1-aa4e-7723156a28af" /># Lab 3b-1 Bash Backup Scripting, Cron Jobs & Cloud Export 
+# Lab 3b-1 Bash Backup Scripting, Cron Jobs & Cloud Export 
 
 This activity introduces Bash scripting for creating file backups, scheduling them using cron jobs, and exporting them to the cloud. 
 
