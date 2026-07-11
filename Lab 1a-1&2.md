@@ -1,4 +1,4 @@
-# LAB 1a-1 -- Virtualisation and Linux Set Up
+# Lab 1a-1 -- Virtualisation and Linux Set Up
 
 Creating Linux environment, which started with VirtualBox download using virtualization software. The goal is to familiarize ownself to network settings in virtualized environment.
 
@@ -69,7 +69,7 @@ this lab provided valuable hands-on experience in setting up and using a virtual
 
 Using virtual machines provides a safe environment for testing and development because users can run different operating systems, test software, and make changes without affecting the main system. During the setup process, I faced challenges such as VirtualBox taking a long time to load and difficulties configuring the network connection. I learned that NAT allows the VM to share the host’s internet connection, while Bridged networking allows the VM to connect directly to the same network as other devices. I also learned that Linux distributions have different purposes and features, with Ubuntu being a beginner-friendly option commonly used for learning, development, and server tasks.
 
-# LAB 1a-2 -- Ubuntu Dekstop and & CLI Familirisation
+# Lab 1a-2 -- Ubuntu Dekstop and & CLI Familirisation
 
 The goal of this lab is to familiarize myself with Ubuntu set up and to be more comfortable using Linux through GUI and CLI.
 
