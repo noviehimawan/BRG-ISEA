@@ -110,6 +110,58 @@ Picture shown that index.html has been edited with a hyperlink to the PDF file.
 
 ### Budget Monitoring Enabled
 
+First I clicked on my account name and click `Billing and Cost Management`
+
+<img width="937" height="445" alt="image" src="https://github.com/user-attachments/assets/3e572fd9-eab6-4bbd-8abe-11d38cc34f2f" />
+
+<img width="951" height="473" alt="image" src="https://github.com/user-attachments/assets/0e96067c-4768-4926-88c3-661e1a49df80" />
+
+Pictures shown are my AWS Billing Dashboard with budget alert setup.
+
+### Instance Terminated
+
+### Challenge 1: Network Latency Testing
+
+I used `ping` to test servers in different countries (e.g US, Europe, and Japan)
+
+```Bash
+ping -c 4 google.com
+ping -c 4 bbc.co.uk
+ping -c 4 www.yahoo.co.jp
+```
+
+Latency Comparison
+
+The server located closest to my region had the lowest latency, while servers located farther away had higher latency. This was expected because network packets travel longer physical distances and pass through more network devices when communicating with overseas servers.
+
+### Challenge 2: Local File Upload via SCP
+
+### Challenge 3: Create a Custom HTML Page
+
+# Reflection Questions
+
+- What were the benefits of cloud deployment over local virtualisation?
+
+**Cloud deployment allows servers to be accessed from anywhere with an internet connection, making it easier to host websites and collaborate remotely**
+
+- How does Apache serve files, and how did you verify this?
+
+**Apache serves web content from the default web root directory, verified by editing the index.html and refreshing the web browser and confirming that is is edited succesfully**
+
+- What did you learn about file ownership and permissions?
+
+**Commands such as chmod, chown, and sudo cp were used to ensure that files had the appropriate permissions while preventing unauthorized access.**
+
+- What risks are associated with leaving instances running?
+
+**Leaving EC2 instances running can lead to unnecessary cloud charges and increase security risks if the server is not properly maintained or monitored.**
+
+- How would you explain the difference between DNS and /etc/hosts to a client?
+**Changes to /etc/hosts affect only that device, whereas DNS changes are available to users worldwide.**
+
+
+
+
 
 
 
