@@ -148,9 +148,11 @@ Total price of cartridges: $3861 + $5934 = $9795
     Reliability - Usually laser printer is made for heavy usage in office setting, while inkjet is usually used for home light usage.**
   
 - Knowing something about the cost structure of printers, what would you look for in a large workgroup printer?
+  
   **I would look for a printer with high-capacity toner cartridges, fast print speeds, automatic duplex printing, and low cost per page.**
   
 - What is the time period where both printers will cost the same?
+  
 **The two printers would cost approximately the same after 9 weeks (around 2 months) of use, based on the assumption of printing 750 pages per week. Although the laser printer has a much higher initial purchase price, its lower toner cost per page allows it to recover the extra cost quickly. After this break-even point, the laser printer becomes the more economical option and continues to save money over the remainder of the five-year period.**
 
 
