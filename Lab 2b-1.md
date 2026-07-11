@@ -118,7 +118,11 @@ First I clicked on my account name and click `Billing and Cost Management`
 
 Pictures shown are my AWS Billing Dashboard with budget alert setup.
 
-### Instance Terminated
+### Instance Termination
+
+Termination of the AWS EC2 once I was done using it to ensure there was no unecessary resources running.
+
+<img width="940" height="256" alt="image" src="https://github.com/user-attachments/assets/9736d28e-3143-4f3e-92cf-90dea93af135" />
 
 ### Challenge 1: Network Latency Testing
 
@@ -129,14 +133,9 @@ ping -c 4 google.com
 ping -c 4 bbc.co.uk
 ping -c 4 www.yahoo.co.jp
 ```
-
-Latency Comparison
+<img width="1853" height="899" alt="image" src="https://github.com/user-attachments/assets/4986c559-5113-4ceb-ac3d-27c5fa19a09c" />
 
 The server located closest to my region had the lowest latency, while servers located farther away had higher latency. This was expected because network packets travel longer physical distances and pass through more network devices when communicating with overseas servers.
-
-### Challenge 2: Local File Upload via SCP
-
-### Challenge 3: Create a Custom HTML Page
 
 # Reflection Questions
 
