@@ -1,4 +1,4 @@
-# LAB 2a-1 -- Total Cost of Ownership Analysis
+# Lab 2a-1 -- Total Cost of Ownership Analysis
 
 ### Printer Models Chosen
 
