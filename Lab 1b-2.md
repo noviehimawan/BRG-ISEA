@@ -1,4 +1,4 @@
-# LAB 1b-2 -- Linux File Permissions and Group Access Control 
+# Lab 1b-2 -- Linux File Permissions and Group Access Control 
 
 In this lab is to acquire foundational skill to manage multi-user system securely.
 
