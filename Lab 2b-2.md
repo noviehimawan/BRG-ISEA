@@ -1,4 +1,4 @@
-# LAB 2b-2 -- Introduction to Bash Scripting & System Automation 
+# Lab 2b-2 -- Introduction to Bash Scripting & System Automation 
 
 This activity introduces basic bash scripting and automating system tasks on Linux.
 
