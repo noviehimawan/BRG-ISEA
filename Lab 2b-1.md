@@ -1,4 +1,4 @@
-# LAB2b-1 -- Cloud Web Server Deployment with Amazon EC2 
+# LAB 2b-1 -- Cloud Web Server Deployment with Amazon EC2 
 
 This lab introduces cloud-based server deployment using Amazon EC2.
 
