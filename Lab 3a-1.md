@@ -1,4 +1,4 @@
-# LAB 3a-1 -- Domain, DNS and TLS Certificates with Let's Encrypt
+# Lab 3a-1 -- Domain, DNS and TLS Certificates with Let's Encrypt
 
 This lab activity is about setting up a complete internet-facing web presence. Which involves, cloud VM, purchase and link a domain name, set DNS records, and secure site with HTTPS using Let's Encrypt.
 
