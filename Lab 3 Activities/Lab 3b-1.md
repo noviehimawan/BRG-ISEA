@@ -152,10 +152,13 @@ Then this is the commands execution
 
 ### Successful Cron Execution Verified 
 
+Using `ls -lh /home/ubuntu/*.zip` can prove that the file is being backup every :09.
+
+<img width="554" height="60" alt="image" src="https://github.com/user-attachments/assets/5eb64b05-eaeb-4b57-9c32-c58624879d4b" />
 
 ### SCP to Cloud Working
 
-I have a zip file named 'books.zip' so I SCP to the EC2 
+I have a zip file named 'books.zip' so I did the SCP to EC2 
 
 Commands I used:
 ```Bash
@@ -196,13 +199,23 @@ Picture below is the commands execution showing manual acceptance of SSH key fin
 
 - Why is using absolute paths important in scripts run by cron? 
 
+**Cron runs with a minimal environment and may not use the same working directory or PATH as a normal user session.**
+
 - What are the benefits of cloud exporting for backups? 
 
-- How does cron differ from manual execution? 
+**Cloud exporting stores backups on a remote server, protecting them from local hardware failure, accidental deletion, or data loss.**
 
-- What happens if SSH keys are not accepted ahead of time? 
+- How does cron differ from manual execution?
 
-- How can login messages help improve user/system engagement? 
+**Cron executes scripts automatically according to a predefined schedule without user intervention, while manual execution requires a user to run the script each time.**
+
+- What happens if SSH keys are not accepted ahead of time?
+
+**Connection cannot continue**
+
+- How can login messages help improve user/system engagement?
+
+**Keeps user informed by displaying useful information such as system status, maintenance notices, security reminders, or welcome messages.**
 
 
 
