@@ -1,6 +1,6 @@
 # Lab 1b-3 -- File Search, Analysis & Archiving in Linux 
 
-This lab activity uses comman-line toold to locate, inspect, and search through test files.
+This lab activity uses command-line toold to locate, inspect, and search through test files.
 
 ### Archive Extracted Successfully
 
