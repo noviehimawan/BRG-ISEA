@@ -152,6 +152,7 @@ Then this is the commands execution
 
 ### Successful Cron Execution Verified 
 
+
 ### SCP to Cloud Working
 
 I have a zip file named 'books.zip' so I SCP to the EC2 
