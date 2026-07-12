@@ -44,9 +44,13 @@
 ### Assumptions
 
 Time period: 5 Years
+
 Printing per week: 750pages
+
 Printer on per week: 40hours
+
 Cost of electricity (local electricity) including GST: $0.3478/kWh
+
 Cost of paper (ream of 500): $7.90
 
 <img width="266" height="186" alt="image" src="https://github.com/user-attachments/assets/910d2257-fbf1-4c5a-81f1-85076b88073e" />
