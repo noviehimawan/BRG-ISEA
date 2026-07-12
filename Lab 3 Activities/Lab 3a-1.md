@@ -43,6 +43,8 @@ The picture showed that Public IP to domain mapping is verfied
 
 Before I was able to obtain the certificate I had a problem because my HTTPS source was IPv6. and I figure it out by checking the ufw status which stated inactive. I changed the source to IPv4 and it worked. So thats how I could open the domain on website.
 
+<img width="408" height="108" alt="image" src="https://github.com/user-attachments/assets/4440d453-bf35-4a1c-8ffb-75a71e5e5524" />
+
 <img width="376" height="32" alt="image" src="https://github.com/user-attachments/assets/407d23d9-7f02-4679-b9bc-6eb9730120b1" />
 
 <img width="951" height="532" alt="image" src="https://github.com/user-attachments/assets/211ed2e6-c083-4f57-af19-e4330679dea2" />
