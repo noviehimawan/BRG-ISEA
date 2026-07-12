@@ -20,7 +20,7 @@ Picture showing that state is running, free tier eligible, and security group co
 
 <img width="869" height="91" alt="image" src="https://github.com/user-attachments/assets/304845f0-deec-4a8f-bc6c-d10a9072422b" />
 
-Photo shown showing invound rules. Port 22 and Port 80.
+Photo shown showing inbound rules. Port 22 and Port 80.
 
 ### SSH Access Successful
 
