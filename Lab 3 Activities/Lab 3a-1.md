@@ -16,7 +16,7 @@ The DNS I created is successfully added
 
 ### A Record Created
 
-I then connected the domain with my AWS VM public IP address
+I then connected the domain with my AWS EC2 public IP address
 
 <img width="862" height="152" alt="image" src="https://github.com/user-attachments/assets/df6a4deb-7ee7-45cd-b2a9-ec8e97b9644c" />
 
