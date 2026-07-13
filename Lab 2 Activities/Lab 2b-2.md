@@ -22,7 +22,7 @@ Picture shown is the commands inputted.
 
 • What command did you use to create a directory? 
 
-**cd**
+**mkdir**
 
 • How can you view file content without a GUI editor? 
 
