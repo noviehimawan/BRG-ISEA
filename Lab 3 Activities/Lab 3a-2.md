@@ -52,7 +52,7 @@ This is the screenshot of me inputting http.
 
 <img width="601" height="58" alt="image" src="https://github.com/user-attachments/assets/ea9cfb3c-8b37-4496-aec4-bd414641e862" />
 
-When I entered, it is automaticallt changed to HTTPS
+When I entered, it is automatically changed to HTTPS
 
 <img width="592" height="64" alt="image" src="https://github.com/user-attachments/assets/953a8076-14e4-4a64-b4be-225d7d9fa474" />
 
